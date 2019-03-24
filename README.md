@@ -15,3 +15,4 @@ User Arduino with Ultrasonic Sensor (HC-SR04) and Servo (SG90) to build a radar 
         2. > browser-sync start --server -f -w
         3. > Your website should be available at http://localhost:3000
         
+![GitHub Logo](https://github.com/pycilin/Arduino_sonar_Radar/blob/master/github_radar.png)
