@@ -19,3 +19,4 @@ https://www.youtube.com/watch?v=eFxBwGq9ZSE
         3. > Your website should be available at http://localhost:3000
         
 ![GitHub Logo](https://github.com/pycilin/Arduino_sonar_Radar/blob/master/github_radar.png)
+![GitHub Logo](https://github.com/pycilin/Arduino_sonar_Radar/blob/master/wiring.jpg)
