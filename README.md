@@ -14,9 +14,9 @@ https://www.youtube.com/watch?v=eFxBwGq9ZSE
 #### 4. If you suffered Radar chart cannot show image issue.
         Please refer to https://github.com/processing/p5.js/wiki/Local-server
         Suggest to use 
-        > 1. npm install -g browser-sync
-        > 2. browser-sync start --server -f -w
-        > 3. Your website should be available at http://localhost:3000
+        > 1.npm install -g browser-sync
+        > 2.browser-sync start --server -f -w
+        > 3.Your website should be available at http://localhost:3000
         
 ![GitHub Logo](https://github.com/pycilin/Arduino_sonar_Radar/blob/master/github_radar.png)
 ![GitHub Logo](https://github.com/pycilin/Arduino_sonar_Radar/blob/master/wiring.jpg)
